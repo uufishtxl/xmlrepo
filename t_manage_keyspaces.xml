@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+<task id="id19319A00PYK"
+    xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Manage keyspaces</title>
+<shortdesc audience="admin">To use a key reference in your DITA
+topic, you need to load the container keyspaces in FrameMaker authoring
+environment.</shortdesc>
+<taskbody><steps><step audience="enduser"><cmd>[ENDUSER]Open the
+DITA keyspace Manager Dialog (Structure > DITA > Manage Keyspaces).</cmd></step>
+<step><cmd audience="admin">[ADMIN]From the Keyspace drop-down
+list, select a DITA map that is defined as a keyspace. For details,
+see <xref outputclass="fm:" href="t_create_a_keyspace.xml#id193190TG0UI">Create
+a keyspace</xref>.</cmd></step></steps></taskbody></task>
